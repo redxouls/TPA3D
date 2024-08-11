@@ -1,2 +1,2 @@
-# TPA3D
-Official repository for the paper "TPA3D: Triplane Attention for Fast Text-to-3D Generation"
+### Project page for TPA3D.
+This website is built upon [Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template?tab=readme-ov-file).
